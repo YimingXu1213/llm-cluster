@@ -1,4 +1,4 @@
-task,refined_comment,topic,pred_topic
+task,comment,topic,pred_topic
 clinc,how would you say fly in italian,translate,translate words
 clinc,what's the spanish word for pasta,translate,translate words
 clinc,how would they say butter in zambia,translate,translate words
@@ -1591,7 +1591,7 @@ clinc,"no, definitely not",no,no
 clinc,i'd say no,no,no
 clinc,the statement is false,no,no
 clinc,that's false,no,no
-clinc,false,no,smart home controls
+clinc,FALSE,no,smart home controls
 clinc,it is no,no,no
 clinc,it is false,no,no
 clinc,it is very much false,no,no
