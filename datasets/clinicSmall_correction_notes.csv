@@ -1,0 +1,29 @@
+﻿task,comment,labelled_topic,Action,special notes
+clinc,repeat what the weather will be like,transfer,Removed,not related to the labelled topic
+clinc,who set up the numbers for it,timer,Removed,not related to the labelled topic
+clinc,i want to learn something about apples,fun fact,Removed,Hard to see if the user just want to learn some facts about apples or fun facts about apples
+clinc,do you speak english,change language,Removed,Hard to see if the user wants to change to English or just test if the assistant has the capabilities
+clinc,what's the phone number for my credit card company,replacement card duration,Removed,not related to the labelled topic
+clinc,can you call the help desk line for my credit card company,replacement card duration,Removed,not related to the labelled topic
+clinc,a hidden government facility,where are you from,Removed,not related to the labelled topic
+clinc,what subjects do you like,what can i ask you,Removed,Looks like asking the preference rather than the capabilities
+clinc,tell me what subjects you like,what can i ask you,Removed,Looks like asking the preference rather than the capabilities
+clinc,please tell me what subjects you like,what can i ask you,Removed,Looks like asking the preference rather than the capabilities
+clinc,so what subjects do you like,what can i ask you,Removed,Looks like asking the preference rather than the capabilities
+clinc,10/4/25,yes,Removed,not related to the labelled topic
+clinc,can someone tell me why my check engine light is on,schedule maintenance,Removed,not related to the labelled topic
+clinc,someone used my chase card without my authorization,report lost card,Removed,"There is another category called ""fraud"". Hard to tell apart which one it should belong to."
+clinc,my capital one visa was taken without permission,report lost card,Removed,"There is another category called ""fraud"". Hard to tell apart which one it should belong to."
+clinc,are cool people at the bar at 9:00 pm,how busy,Removed,not related to the labelled topic
+clinc,i would like to change the name on my checking account,pin change,Removed,not related to the labelled topic
+clinc,i would like to change the name on my credit card account,pin change,Removed,not related to the labelled topic
+clinc,i would like to change the name on my first hawaiian bank account,pin change,Removed,not related to the labelled topic
+clinc,i would like to change the name on my first bankcard account,pin change,Removed,not related to the labelled topic
+clinc,i would like to change the name on my capital one account,pin change,Removed,not related to the labelled topic
+clinc,did someone who is unauthorized try to get into my bank account,account blocked,Removed,"Looks like a ""fraud"" event. No clear sign of account being blocked."
+clinc,can you tell me something funny about science,tell joke,Removed,"Hard to tell apart between ""fun fact"" and ""tell joke"""
+clinc,tell me something funny about the middle ages,tell joke,Removed,"Hard to tell apart between ""fun fact"" and ""tell joke"""
+clinc,what would you suggest for japanese,meal suggestion,Removed,not related to the labelled topic
+clinc,what will i make this year,income,Removed,hard to see if the user is specifically asking for income
+clinc,what do i take home,income,Removed,hard to see if the user is specifically asking for income
+clinc,where can i find bluetooth speakers,order,Removed,not related to the labelled topic
