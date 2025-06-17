@@ -8,6 +8,8 @@ datasets/
 
     - clinicSmall_correction_notes.csv -> documented the mis-labelled records for the original clinic data.
 
+    - codex review -> data augmentation: remove sensitive information and split the multi-topic reviews to multiple 1 topic review. Only maintain those comments regarding the presentation, remove the follow-up discussion under a specific comment. Remove duplicate results.
+
 results/
 
     - clinicSmallCleaned -> stored the 5 independent output results from our method
