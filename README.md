@@ -12,5 +12,10 @@ datasets/
 
 results/
 
-    - clinicSmallCleaned -> stored the 5 independent output results from our method
+    Under each dataset folder, there are 5 folders:
+    - sorted_gt: Comments were sorted by ground-truth topics before being passed into the topic extractor.
+    - unsorted: Comments were randomly shuffled before being passed into the topic extractor.
+    - sorted_pred_K-means: Comments were sorted by predicted clusters from K-means before being passed into the topic extractor.
+    - sorted_pred_cos: Comments were sorted by cosine similarity of their embeddings to the first comment, then passed into the topic extractor.
+    - sorted_pred_euc: Comments were sorted by Euclidean distance of their embeddings to the first comment, then passed into the topic extractor.
 
