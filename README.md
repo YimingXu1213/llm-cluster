@@ -1,6 +1,6 @@
-# llm-cluster (Under Construction)
+# ClusterFusion
 
-This is the repo about using LLM as the backbone for clustering problems.
+This is the repo for ClusterFusion: Hybrid Clustering with Embedding Guidance and LLM Adaptation
 
 datasets/
 
